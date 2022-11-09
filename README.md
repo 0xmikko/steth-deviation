@@ -11,7 +11,7 @@ This repos contains the script which collects deviations between USD prices, com
 
 ## Data for 9-Nov-2022
 
-You can find data collected till block # **15912373** in [/data/data.csv](/data/data.csv)
+You can find data collected till block # 15912373 in [/data/data.csv](/data/data.csv)
 
 ![devitaion by time](data/deviation.png)
 
