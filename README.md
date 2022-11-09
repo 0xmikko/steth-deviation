@@ -4,6 +4,8 @@
 
 Currently [stETH/USD](https://data.chain.link/ethereum/mainnet/crypto-usd/eth-usd) and [ETH/USD](https://data.chain.link/ethereum/mainnet/crypto-usd/eth-usd) have different deviation and heart rate to be updated (0.5% vs 1% and 30 min vs 1hr). It creates situations when the gap between two calculated values in USD could have a big gap, which comes from different update times.
 
+![price gap](price_gap.jpeg)
+
 This repos contains the script which collects deviations between USD prices, computed by two different ways:
 
 - Getting data from stETH/USD chainlink oracle
