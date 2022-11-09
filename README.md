@@ -36,4 +36,4 @@ Historically, the biggest deviation was ** 5.72% **. In this table you can find 
 4. Run `yarn compare` to collect data.
 
 Each time you run a script, it starts from the latest save point, so only new data will be updated. If you want to change it and gather all data from scratch, you should remove `data/progress.json`.
-# steth-deviation
+
