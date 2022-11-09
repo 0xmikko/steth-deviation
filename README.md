@@ -17,7 +17,7 @@ You can find data collected till block # **15912373** in [/data/data.csv](/data/
 
 ### Deviation distribution
 
-Historically, the biggest deviation was ** 5.72% **. In this table you can find distribution to estimate probability of these events.
+Historically, the biggest deviation was **5.72%**. In this table you can find distribution to estimate probability of these events.
 
 | deviation, % | Period, blocks | % of total blocks |
 |:------------:|:-------------:|:-------------:|
